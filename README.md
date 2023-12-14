@@ -1,8 +1,11 @@
+
 <img src='https://huggingface.co/HuggingFaceH4/starchat-beta/resolve/main/model_logo.png' alt='StarChat Logo' width='400' />
 
 ## StarChat - Your Local Coding Assistant 🌟
 
 This project harnesses the power of the StarChat Beta text generation model to serve as a helpful coding assistant. StarChat Beta is an advanced AI model designed to assist with coding tasks. To learn more about StarChat Beta, visit [HuggingFace's StarChat Beta](https://huggingface.co/HuggingFaceH4/starchat-beta).
+
+<img src='./example-output.jpg' alt='an example of code generation' width='800' />
 
 ### Why Longchain Instead of Pipeline?
 
