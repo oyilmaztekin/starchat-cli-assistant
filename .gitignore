@@ -1,0 +1,23 @@
+.env
+.envfile
+**/*.pyc
+venv
+
+# Byte-compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Flask specific
+instance/
+.webassets-cache
+
+# Hugging Face specific
+# Add any Hugging Face specific patterns here
+
+# Ignore any other project specific files or directories
+# Add project specific patterns here
